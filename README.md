@@ -2,9 +2,8 @@
 
 > Beginner developer learning by building real AI tools.
 
-<a href="https://platon.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-platon.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
-
-<a href="https://ai-platon.github.io/ai-guard-game/"><img src="https://img.shields.io/badge/Play_Now-ai%20guard%20game-4a7a8a?style=for-the-badge&logo=github&logoColor=white" alt="Play Now"/></a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-platon.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://platon.streamlit.app/)<br/>
+[![Play Now](https://img.shields.io/badge/Play_Now-AI_Guard_Game-4a7a8a?style=for-the-badge&logo=github&logoColor=white)](https://ai-platon.github.io/ai-guard-game/)
 
 ---
 
@@ -23,8 +22,6 @@
 
 A browser jailbreak game — convince an AI guard to let you through using social engineering and clever prompts.
 
-🔗 **[ai-platon.github.io/ai-guard-game](https://ai-platon.github.io/ai-guard-game/)**
-
 What I learned building it:
 
 - 🎨 Vanilla JS + CSS animations — full cyberpunk UI from scratch, zero frameworks
@@ -39,8 +36,6 @@ What I learned building it:
 ### [🎬 YouTube AI Assistant](https://github.com/ai-platon/youtube-ai-assistant)
 
 Paste any YouTube link → get an AI-powered summary in seconds.
-
-🔗 **[platon.streamlit.app](https://platon.streamlit.app/)**
 
 What I learned building it:
 
