@@ -3,6 +3,7 @@
 > Beginner developer learning by building real AI tools.
 
 [![Live Project](https://img.shields.io/badge/🚀%20Live%20Demo-platon.streamlit.app-FF4B4B?style=for-the-badge)](https://platon.streamlit.app/)
+[![AI Guard](https://img.shields.io/badge/🎮%20Play%20Now-ai--guard--game-00d4ff?style=for-the-badge)](https://ai-platon.github.io/ai-guard-game/)
 
 ---
 
@@ -16,6 +17,23 @@
 ---
 
 ## 🚀 What I've Built
+
+### [🛡️ AI Guard: Battle for Entry](https://github.com/ai-platon/ai-guard-game)
+
+A browser jailbreak game — convince an AI guard to let you through using social engineering and clever prompts.
+
+🔗 **[ai-platon.github.io/ai-guard-game](https://ai-platon.github.io/ai-guard-game/)**
+
+What I learned building it:
+
+- 🎨 Vanilla JS + CSS animations — full cyberpunk UI from scratch, zero frameworks
+- 🤖 Groq API — real-time AI responses with dynamic system prompts
+- 🧠 Prompt engineering — designing AI characters with distinct personalities and vulnerabilities
+- 💾 JavaScript `localStorage` — leaderboard and API key persistence
+- 🌍 Multilingual AI — guards respond in the player's language automatically
+- 🐙 GitHub Pages — deploying a static game with no backend
+
+---
 
 ### [🎬 YouTube AI Assistant](https://github.com/ai-platon/youtube-ai-assistant)
 
