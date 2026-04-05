@@ -2,9 +2,9 @@
 
 > Beginner developer learning by building real AI tools.
 
-<a href="https://platon.streamlit.app/"><img src="https://img.shields.io/badge/🚀 Live Demo-platon.streamlit.app-FF4B4B?style=for-the-badge" alt="Live Demo"/></a>
+<a href="https://platon.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-platon.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
 
-<a href="https://ai-platon.github.io/ai-guard-game/"><img src="https://img.shields.io/badge/🎮 Play Now-ai--guard--game-4a7a8a?style=for-the-badge" alt="Play Now"/></a>
+<a href="https://ai-platon.github.io/ai-guard-game/"><img src="https://img.shields.io/badge/Play_Now-ai--guard--game-4a7a8a?style=for-the-badge&logo=github&logoColor=white" alt="Play Now"/></a>
 
 ---
 
