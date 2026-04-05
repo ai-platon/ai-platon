@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I'm Platon 👋
 
-<!--
-**ai-platon/ai-platon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Beginner developer learning by building real AI tools.
 
-Here are some ideas to get you started:
+[![Live Project](https://img.shields.io/badge/🚀%20Live%20Demo-platon.streamlit.app-FF4B4B?style=for-the-badge)](https://platon.streamlit.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋 About Me
+
+- 🌱 Just started — learning as I ship real projects
+- 🤖 Focused on **AI tools** and making LLMs actually useful
+- 🛠 I build first, figure out the details along the way
+- 📍 Based in Poland
+
+---
+
+## 🚀 What I've Built
+
+### [🎬 YouTube AI Assistant](https://github.com/ai-platon/youtube-ai-assistant)
+
+Paste any YouTube link → get an AI-powered summary in seconds.
+
+🔗 **[platon.streamlit.app](https://platon.streamlit.app/)**
+
+What I learned building it:
+
+- 🐍 Python — scripts, APIs, logic
+- 🎨 Streamlit + custom CSS — full web UI from scratch
+- 🤖 Groq API + Llama 3.3 70b — LLM integration
+- 💾 JavaScript `localStorage` — saving data in the browser
+- 🌍 Multi-language UI with auto IP detection
+- 🐙 Git & GitHub — version control start to finish
+
+---
+
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq%20API-FF6B00?style=for-the-badge&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%203.3-6C3483?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Platon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-platon&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-platon&layout=compact&theme=radical&hide_border=true)
+
+---
+
+*Still learning. Still building. That's the point.*
