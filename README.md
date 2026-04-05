@@ -2,8 +2,8 @@
 
 > Beginner developer learning by building real AI tools.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-platon.streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://platon.streamlit.app/)
-[![AI Guard](https://img.shields.io/badge/Play%20Now-ai--guard--game-00d4ff?logo=github&logoColor=white)](https://ai-platon.github.io/ai-guard-game/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=flat-square)](https://platon.streamlit.app/)
+[![Play Now](https://img.shields.io/badge/🎮_Play_Now-00d4ff?style=flat-square)](https://ai-platon.github.io/ai-guard-game/)
 
 ---
 
