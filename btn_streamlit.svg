@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="44">
+  <rect width="260" height="44" rx="6" fill="#111111"/>
+  <rect x="1" y="1" width="258" height="42" rx="5" fill="none" stroke="#FF4B4B" stroke-width="1.5" opacity="0.7"/>
+  <rect width="115" height="44" rx="6" fill="#1e1e1e"/>
+  <text x="57" y="27" font-family="Arial Black, Arial, sans-serif" font-size="11" font-weight="900" fill="#888888" text-anchor="middle" letter-spacing="2">LIVE DEMO</text>
+  <text x="187" y="27" font-family="Arial Black, Arial, sans-serif" font-size="12" font-weight="900" fill="#FF4B4B" text-anchor="middle" letter-spacing="1.5">YT ASSISTANT</text>
+</svg>
