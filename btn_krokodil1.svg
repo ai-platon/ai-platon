@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="35" role="img" aria-label="PLAY NOW: KROKODIL">
+  <title>Play Now: Krokodil</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="200" height="35" rx="4" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="105" height="35" fill="#1a1a1a"/>
+    <rect x="105" width="95" height="35" fill="#00c853"/>
+    <rect width="200" height="35" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+    <text x="52" y="23" fill="#010101" fill-opacity=".3">PLAY NOW</text>
+    <text x="52" y="22">PLAY NOW</text>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+    <text x="152" y="23" fill="#000" fill-opacity=".3">KROKODIL</text>
+    <text x="152" y="22" fill="#000">KROKODIL</text>
+  </g>
+</svg>
