@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="36">
+  <rect width="115" height="36" rx="4" fill="#1a1a1a"/>
+  <rect x="115" width="115" height="36" rx="4" fill="#00c853"/>
+  <rect x="111" width="8" height="36" fill="#00c853"/>
+  <text x="57" y="23" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">🐊 PLAY NOW</text>
+  <text x="172" y="23" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle" letter-spacing="1">KROKODIL</text>
+</svg>
