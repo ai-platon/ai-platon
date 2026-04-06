@@ -2,8 +2,11 @@
 
 > Beginner developer learning by building real AI tools.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-platon.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://platon.streamlit.app/)<br/>
-[![Play Now](https://img.shields.io/badge/Play_Now-AI_Guard_Game-4a7a8a?style=for-the-badge&logo=github&logoColor=white)](https://ai-platon.github.io/ai-guard-game/)
+[![Live Demo](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_streamlit.svg)](https://platon.streamlit.app/)
+
+[![Play Now](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_game.svg)](https://ai-platon.github.io/ai-guard-game/)
+
+[![Play Now](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_game.svg)](https://ai-platon.github.io/krokodil/)
 
 ---
 
@@ -30,6 +33,21 @@ What I learned building it:
 - 💾 JavaScript `localStorage` — leaderboard and API key persistence
 - 🌍 Multilingual AI — guards respond in the player's language automatically
 - 🐙 GitHub Pages — deploying a static game with no backend
+
+---
+
+### [🐊 Krokodil: AI Word Generator](https://github.com/ai-platon/krokodil)
+
+A browser party game — generate charades words for any topic using AI, play solo or with friends in real-time team mode.
+
+What I learned building it:
+
+- 🎨 Vanilla JS + CSS — multi-page SPA with animated dark UI, zero frameworks
+- 🤖 Groq API + Llama 3.3 70b — AI word generation by topic, difficulty and count
+- 🧠 Prompt engineering — tuning output format, difficulty levels and topic relevance
+- 👥 Game logic — turn-based team mode with live countdown timer and round management
+- 💾 JavaScript `localStorage` — per-topic leaderboard, generation history, API key
+- 📱 Mobile-first — responsive bottom tab navigation, haptic feedback
 
 ---
 
