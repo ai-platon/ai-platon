@@ -3,10 +3,8 @@
 > Beginner developer learning by building real AI tools.
 
 [![Live Demo](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_streamlit.svg)](https://platon.streamlit.app/)
-
 [![Play Now](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_game.svg)](https://ai-platon.github.io/ai-guard-game/)
-
-[![Play Now](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_game.svg)](https://ai-platon.github.io/krokodil/)
+[![Play Now](https://raw.githubusercontent.com/ai-platon/ai-platon/main/btn_krokodil.svg)](https://ai-platon.github.io/krokodil/)
 
 ---
 
