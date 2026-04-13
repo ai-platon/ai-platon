@@ -67,7 +67,7 @@ What I learned building it:
 
 Paste any YouTube link → get an AI-powered summary in seconds.
 
-What I learned building it:
+What I learned building it: 
 
 - 🐍 Python — scripts, APIs, logic
 - 🎨 Streamlit + custom CSS — full web UI from scratch
